@@ -15,14 +15,14 @@ cd Unlimited
 # cara menggunakan nya
 ```python
 python Xenzz.py (apikey) (nomor) (jumlah spam)
-python Xenzz.py download dulu 8******* 50
+python Xenzz.py download dulu apikey nya 8******* 50
 ```
 # Apa saja fungsinya
 + Spam Sms OTP
 + Spam Smsm Unlimited
 
-# Hasil Dari Tools SM
-![img]()
+# Hasil Dari Tools Unlimited
+![img](https://github.com/Xenzi-XN1/Unlimited/blob/main/IMG_20220922_192614.jpg)
 
 # Thanks to
 ```
